@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 2a7f9c5fdfa2e1448995d6db08d9c68b
+timeCreated: 1488545463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MLG_frog_sprites_0
+    21300002: MLG_frog_sprites_1
+    21300004: MLG_frog_sprites_2
+    21300006: MLG_frog_sprites_3
+    21300008: MLG_frog_sprites_4
+    21300010: MLG_frog_sprites_5
+    21300012: MLG_frog_sprites_6
+    21300014: MLG_frog_sprites_7
+    21300016: MLG_frog_sprites_8
+    21300018: MLG_frog_sprites_9
+    21300020: MLG_frog_sprites_10
+    21300022: MLG_frog_sprites_11
+    21300024: MLG_frog_sprites_12
+    21300026: MLG_frog_sprites_13
+    21300028: MLG_frog_sprites_14
+    21300030: MLG_frog_sprites_15
+    21300032: MLG_frog_sprites_16
+    21300034: MLG_frog_sprites_17
+    21300036: MLG_frog_sprites_18
+    21300038: MLG_frog_sprites_19
+    21300040: MLG_frog_sprites_20
+    21300042: MLG_frog_sprites_21
+    21300044: MLG_frog_sprites_22
+    21300046: MLG_frog_sprites_23
+    21300048: MLG_frog_sprites_24
+    21300050: MLG_frog_sprites_25
+    21300052: MLG_frog_sprites_26
+    21300054: MLG_frog_sprites_27
+    21300056: MLG_frog_sprites_28
+    21300058: MLG_frog_sprites_29
+    21300060: MLG_frog_sprites_30
+    21300062: MLG_frog_sprites_31
+    21300064: MLG_frog_sprites_32
+    21300066: MLG_frog_sprites_33
+    21300068: MLG_frog_sprites_34
+    21300070: MLG_frog_sprites_35
+    21300072: MLG_frog_sprites_36
+    21300074: MLG_frog_sprites_37
+    21300076: MLG_frog_sprites_38
+    21300078: MLG_frog_sprites_39
+    21300080: MLG_frog_sprites_40
+    21300082: MLG_frog_sprites_41
+    21300084: MLG_frog_sprites_42
+    21300086: MLG_frog_sprites_43
+    21300088: MLG_frog_sprites_44
+    21300090: MLG_frog_sprites_45
+    21300092: MLG_frog_sprites_46
+    21300094: MLG_frog_sprites_47
+    21300096: MLG_frog_sprites_48
+    21300098: MLG_frog_sprites_49
+    21300100: MLG_frog_sprites_50
+    21300102: MLG_frog_sprites_51
+    21300104: MLG_frog_sprites_52
+    21300106: MLG_frog_sprites_53
+    21300108: MLG_frog_sprites_54
+    21300110: MLG_frog_sprites_55
+    21300112: MLG_frog_sprites_56
+    21300114: MLG_frog_sprites_57
+    21300116: MLG_frog_sprites_58
+    21300118: MLG_frog_sprites_59
+    21300120: MLG_frog_sprites_60
+    21300122: MLG_frog_sprites_61
+    21300124: MLG_frog_sprites_62
+    21300126: MLG_frog_sprites_63
+    21300128: MLG_frog_sprites_64
+    21300130: MLG_frog_sprites_65
+    21300132: MLG_frog_sprites_66
+    21300134: MLG_frog_sprites_67
+    21300136: MLG_frog_sprites_68
+    21300138: MLG_frog_sprites_69
+    21300140: MLG_frog_sprites_70
+    21300142: MLG_frog_sprites_71
+    21300144: MLG_frog_sprites_72
+    21300146: MLG_frog_sprites_73
+    21300148: MLG_frog_sprites_74
+    21300150: MLG_frog_sprites_75
+    21300152: MLG_frog_sprites_76
+    21300154: MLG_frog_sprites_77
+    21300156: MLG_frog_sprites_78
+    21300158: MLG_frog_sprites_79
+    21300160: MLG_frog_sprites_80
+    21300162: MLG_frog_sprites_81
+    21300164: MLG_frog_sprites_82
+    21300166: MLG_frog_sprites_83
+    21300168: MLG_frog_sprites_84
+    21300170: MLG_frog_sprites_85
+    21300172: MLG_frog_sprites_86
+    21300174: MLG_frog_sprites_87
+    21300176: MLG_frog_sprites_88
+    21300178: MLG_frog_sprites_89
+    21300180: MLG_frog_sprites_90
+    21300182: MLG_frog_sprites_91
+    21300184: MLG_frog_sprites_92
+    21300186: MLG_frog_sprites_93
+    21300188: MLG_frog_sprites_94
+    21300190: MLG_frog_sprites_95
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MLG_frog_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 211
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 217
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 224
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 227
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 224
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 223
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 224
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 216
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MLG_frog_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 222
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
