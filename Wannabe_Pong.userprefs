@@ -8,9 +8,10 @@
       <File FileName="Assets\Scripts\MLG\MLGSpawner.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Player2Controller.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Player1Controller.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GraphicPanelInit.cs" Line="70" Column="24" />
-      <File FileName="Assets\Scripts\ToggleFullscreen.cs" Line="18" Column="5" />
+      <File FileName="Assets\Scripts\GraphicPanelInit.cs" Line="32" Column="2" />
+      <File FileName="Assets\Scripts\ToggleFullscreen.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\QuitOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioPanelController.cs" Line="9" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -8,22 +8,15 @@ public class GraphicPanelInit : MonoBehaviour {
 
 	public Dropdown resDD;
 	public Dropdown fullscreenDD;
-	public Toggle toggleFullscreen;
 
 	// Use this for initialization
 	void Start () {
-		// Init Toggle
-		print("Fullscren: "+Screen.fullScreen);
-		if (Screen.fullScreen)
-			toggleFullscreen.isOn = true;
-		else
-			toggleFullscreen.isOn = false;
-
 		// Init resolution dropdown
 		initResolutionDropdown (resDD, Screen.fullScreen);
 
 	}
 
+	/**
 	// Get Dropdown Child Element
 	Dropdown getDropDown(string theName)
 	{
@@ -35,6 +28,7 @@ public class GraphicPanelInit : MonoBehaviour {
 		}
 		throw new UnityException ("Could not find dropdown");
 	}
+	*/
 
 	public void initResolutionDropdown(Dropdown resDD, bool fullscreen)
 	{
@@ -58,24 +52,7 @@ public class GraphicPanelInit : MonoBehaviour {
 			resolutions[resDD.value].height, fullscreen); });
 	}
 
-	void initFullscreenDropdown(Dropdown fullscreenDD, bool fullscreen)
-	{
 
-	}
-
-	public void toFullscreen()
-	{
-		Screen.fullScreen = true;
-		initResolutionDropdown (resDD, true);
-		print ("Fullscreen");
-	}
-
-	public void toWindowed()
-	{
-		Screen.fullScreen = false;
-		initResolutionDropdown (resDD, false);
-		print ("Windowed");
-	}
 
 	public void toggleLeFullscreen(int menuItemIndex)
 	{
